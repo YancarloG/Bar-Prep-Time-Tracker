@@ -11,7 +11,7 @@ Features:
 * User-Friendly: Intuitive layout and simple navigation for seamless use.
 
 How to Use:
-1. Download the File: Click here to download the Excel file.
+1. Download the File: [click here](https://github.com/YancarloG/Bar-Prep-Time-Tracker/blob/main/Bar-Prep-Time-Tracker.xlsx) to download the Excel file.
 2. Open in Excel: Ensure you have Excel installed on your computer and open the file.
 3. Input Tasks: Enter your study tasks, along with the in/out time.
 4. Track Time: The excel file will automatically log the hours spent on each task.
